@@ -60,13 +60,13 @@ This tool evaluates passwords against a comprehensive set of security criteria a
 
 ```bash
 # Clone the repository
-git clone https://github.com/sekere01/password-strength-checker.git
+git clone https://github.com/sekere01/password-complexity-checker.git
 
 # Navigate into the directory
-cd password-strength-checker
+cd password-complexity-checker
 
 # Run the application
-python passwordchecker.py
+python passchecker.py
 ```
 
 ---
@@ -108,9 +108,9 @@ Passwords are scored out of **7 points**:
 ## 📁 Project Structure
 
 ```
-password-strength-checker/
+password-complexity-checker/
 │
-├── passwordchecker.py   # Main application file
+├── passchecker.py   # Main application file
 └── README.md            # Project documentation
 ```
 
